@@ -1,3 +1,4 @@
+![Exact Mesh Selector V2 Demo](demo.gif)
 # Exact Mesh Selector V2
 
 **Blender Addon** — by [Salih Kılıç](https://kilicsalih.com)  
